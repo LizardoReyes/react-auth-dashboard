@@ -2,8 +2,8 @@
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/sign-in.png" alt="Login Page" height="300" style="vertical-align: top;" />
-  <img src="screenshots/sign-up.png" alt="Register Page" height="300" style="vertical-align: top;" />
+  <img src="screenshots/sign-in.png" alt="Login Page" height="200" style="vertical-align: top;" />
+  <img src="screenshots/sign-up.png" alt="Register Page" height="200" style="vertical-align: top;" />
 </p>
 
 A modern React authentication dashboard built with **React 19**, **TypeScript**, **Vite**, **React Router**, and **Radix UI**.  
